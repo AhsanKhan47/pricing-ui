@@ -1,4 +1,4 @@
-## Getting Started
+# Pricing Ui
 
 This is a Responsive pricing ui inerface built with nextjs and Chakra.
 
